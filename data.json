@@ -1,0 +1,220 @@
+{
+  "alarms": [],
+  "client": "la-bella-sea-girt",
+  "currency": "USD",
+  "daily": [],
+  "display_name": "La Bella MD Sea Girt",
+  "generated_at": "2026-09-30T02:48:39.465808-07:00",
+  "headline": [
+    {
+      "format": "money",
+      "key": "spend",
+      "label": "Ad spend",
+      "prior": 142.54,
+      "trend": [
+        136.67,
+        142.28,
+        137.13,
+        143.32,
+        142.42,
+        137.59,
+        142.54,
+        138.5
+      ],
+      "value": 138.5
+    },
+    {
+      "format": "int",
+      "key": "pixel_leads",
+      "label": "Leads (Meta)",
+      "prior": 5,
+      "trend": [
+        10,
+        5,
+        5,
+        9,
+        7,
+        5,
+        5,
+        7
+      ],
+      "value": 7
+    },
+    {
+      "format": "int",
+      "key": "crm_leads",
+      "label": "Leads in CRM",
+      "prior": 4,
+      "trend": [
+        8,
+        5,
+        3,
+        8,
+        5,
+        3,
+        4,
+        7
+      ],
+      "value": 7
+    },
+    {
+      "format": "money",
+      "key": "cpl",
+      "label": "Cost per CRM lead",
+      "prior": 35.63,
+      "trend": [
+        17.08,
+        28.46,
+        45.71,
+        17.91,
+        28.48,
+        45.86,
+        35.63,
+        19.79
+      ],
+      "value": 19.79
+    }
+  ],
+  "insight": null,
+  "labels": {
+    "cpl": "Cost per CRM lead",
+    "crm_leads": "Leads in CRM",
+    "pixel_leads": "Leads (Meta)"
+  },
+  "metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": null,
+    "cpl": 19.79,
+    "crm_leads": 7,
+    "crm_leads_raw": 7,
+    "ctr": 0.005623,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 4446,
+    "landing_page_views": 3,
+    "link_clicks": 25,
+    "messages": 0,
+    "meta_spend": 138.5,
+    "pixel_leads": 7,
+    "reach": 2214,
+    "spend": 138.5,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "segment_label": "segment",
+  "segments": [],
+  "top_ads": [
+    {
+      "ad_name": "Flexible Ad- IMG-Winner creatives- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 5,
+      "spend": 50.22
+    },
+    {
+      "ad_name": "DCT- BROAD- New Images- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 1,
+      "spend": 40.47
+    },
+    {
+      "ad_name": "9.23.26-Flexible Ad- IMG-Winner creatives- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 1,
+      "spend": 3.15
+    },
+    {
+      "ad_name": "Control- IMG- EP 122134528377004626- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 0,
+      "spend": 28.0
+    },
+    {
+      "ad_name": "DCT- IT- New Images- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "crm_leads": null,
+      "messages": 0,
+      "pixel_leads": 0,
+      "spend": 14.49
+    }
+  ],
+  "unavailable": [
+    "tiktok_spend",
+    "tiktok_leads",
+    "google_spend",
+    "google_conversions"
+  ],
+  "verification": {
+    "checks": [
+      {
+        "detail": "weekly window has 7 day(s)",
+        "name": "window_span",
+        "ok": true
+      },
+      {
+        "detail": "meta 138.50, google 0.00, tiktok 0.00, total 138.50",
+        "name": "spend",
+        "ok": true
+      },
+      {
+        "detail": "non-spend aggregate metrics match raw rows",
+        "name": "raw_metrics",
+        "ok": true
+      },
+      {
+        "detail": "raw 7, counted 7",
+        "name": "crm_leads",
+        "ok": true
+      },
+      {
+        "detail": "expected 19.79, got 19.79",
+        "name": "cpl",
+        "ok": true
+      },
+      {
+        "detail": "segment totals do not exceed report totals",
+        "name": "segments_additive",
+        "ok": true
+      },
+      {
+        "detail": "segments cover report totals",
+        "name": "segments_coverage",
+        "ok": true
+      },
+      {
+        "detail": "all headline trends have eight matching points",
+        "name": "headline_trends",
+        "ok": true
+      },
+      {
+        "detail": "raw rows by date: 2026-09-17=2, 2026-09-21=2, 2026-09-22=3, 2026-09-23=1; report has no daily audit rows",
+        "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "report keys and values match the allowlist",
+        "name": "schema_allowlist",
+        "ok": true
+      },
+      {
+        "detail": "meta pixel leads 7.00, CRM leads 7",
+        "name": "tracking_drift",
+        "ok": true
+      }
+    ],
+    "status": "pass"
+  },
+  "window": {
+    "end": "2026-09-23",
+    "label": "Sep 17 to Sep 23",
+    "start": "2026-09-17"
+  }
+}
