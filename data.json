@@ -76,6 +76,12 @@
     }
   ],
   "insight": null,
+  "insights": {
+    "creative": "All ads carry the same offer: tox at a per-unit rate with a free consultation and skin analysis for a limited number of spots. The proven image set is the one pulling leads. Next we will test a short video of the consultation and skin analysis so the offer is shown, not listed.",
+    "doing": "7 leads reached the CRM this week at $19.79 each, compared with 4 at $35.63 the week before, on $138.50 of spend. At this budget the weekly count has moved between 3 and 8 all summer, so one week up or down is not yet a trend.",
+    "look_into": "Every Meta lead matched a CRM lead, so tracking is clean. The proven image ad brought 5 of the 7 leads on $50.22, while the newer image ads took over half the spend for 1 lead. We recommend checking how many of the 7 booked, since bookings are not tracked here yet.",
+    "next": "Next we will shift spend back toward the proven image ad and give the newer images a smaller share, then watch whether the cost per lead holds near this week's level for a second week before recommending more budget."
+  },
   "labels": {
     "cpl": "Cost per CRM lead",
     "crm_leads": "Leads in CRM",
