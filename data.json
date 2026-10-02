@@ -1,10 +1,36 @@
 {
+  "actions": [
+    "Interest-targeting ad set (ages 30 to 50, Sea Girt) switched off on Sep 21.",
+    "Six new images added to the ad library and edited on Sep 17 for the new image ads.",
+    "No budget changes this week."
+  ],
   "alarms": [],
+  "campaigns": [
+    {
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_lpv": 46.17,
+      "cost_per_result": 19.79,
+      "cpc": 5.54,
+      "cpm": 31.15,
+      "impressions": 4446,
+      "landing_page_views": 3,
+      "link_clicks": 25,
+      "messages": 0,
+      "pixel_leads": 7,
+      "platform": "Meta",
+      "reach": 2214,
+      "result_type": "Website leads",
+      "results": 7.0,
+      "spend": 138.5,
+      "unique_outbound_clicks": 0,
+      "uo_ctr": null
+    }
+  ],
   "client": "la-bella-sea-girt",
   "currency": "USD",
   "daily": [],
   "display_name": "La Bella MD Sea Girt",
-  "generated_at": "2026-09-30T02:48:39.465808-07:00",
+  "generated_at": "2026-10-01T22:48:25.106852-07:00",
   "headline": [
     {
       "format": "money",
@@ -77,7 +103,7 @@
   ],
   "insight": null,
   "insights": {
-    "creative": "All ads carry the same offer: tox at a per-unit rate with a free consultation and skin analysis for a limited number of spots. The proven image set is the one pulling leads. Next we will test a short video of the consultation and skin analysis so the offer is shown, not listed.",
+    "creative": "All five ads sell one offer: tox at $9.50 a unit with a free consultation and skin analysis, 15 spots. The proven image set, 'Smoother skin starts with one appointment,' brought 5 of the 7 leads on $50.22. The new images with a second opener, 'Sea Girt: we're looking for 15 people thinking about tox,' brought 1 lead on $40.47, and that opener alone brought none. Next we will test a short video of the consultation under the 'smoother skin' opener, to show the free visit.",
     "doing": "7 leads reached the CRM this week at $19.79 each, compared with 4 at $35.63 the week before, on $138.50 of spend. At this budget the weekly count has moved between 3 and 8 all summer, so one week up or down is not yet a trend.",
     "look_into": "Every Meta lead matched a CRM lead, so tracking is clean. The proven image ad brought 5 of the 7 leads on $50.22, while the newer image ads took over half the spend for 1 lead. We recommend checking how many of the 7 booked, since bookings are not tracked here yet.",
     "next": "Next we will shift spend back toward the proven image ad and give the newer images a smaller share, then watch whether the cost per lead holds near this week's level for a second week before recommending more budget."
@@ -108,47 +134,88 @@
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
+  "prior_metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_message": 142.54,
+    "cpl": 35.63,
+    "crm_leads": 4,
+    "crm_leads_raw": 4,
+    "ctr": 0.008502,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 4587,
+    "landing_page_views": 1,
+    "link_clicks": 39,
+    "messages": 1,
+    "meta_spend": 142.54,
+    "pixel_leads": 5,
+    "reach": 2381,
+    "spend": 142.54,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
   "segment_label": "segment",
   "segments": [],
   "top_ads": [
     {
       "ad_name": "Flexible Ad- IMG-Winner creatives- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": 10.04,
       "crm_leads": null,
+      "hook": "Image set. 'Smoother skin starts with one appointment.' 15 spots: tox at $9.50 a unit (20-unit minimum), free consultation and skin analysis. Book now.",
+      "link_clicks": 10,
       "messages": 0,
       "pixel_leads": 5,
+      "preview_url": "https://fb.me/2bz0CYAxpt9A1ZQ",
       "spend": 50.22
     },
     {
       "ad_name": "DCT- BROAD- New Images- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": 40.47,
       "crm_leads": null,
+      "hook": "Image, new set. Two openers: 'Smoother skin starts with one appointment' and 'Sea Girt: we're looking for 15 people thinking about tox.' Same $9.50 offer.",
+      "link_clicks": 6,
       "messages": 0,
       "pixel_leads": 1,
+      "preview_url": "https://fb.me/27J8g3ZsC12LL1r",
       "spend": 40.47
     },
     {
       "ad_name": "9.23.26-Flexible Ad- IMG-Winner creatives- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": 3.15,
       "crm_leads": null,
+      "hook": "Image set, relaunched Sep 23. 'Smoother skin starts with one appointment.' Tox at $9.50 a unit with free consultation and skin analysis, 15 spots.",
+      "link_clicks": 1,
       "messages": 0,
       "pixel_leads": 1,
+      "preview_url": "https://fb.me/1WOLXBNaCqL3xVP",
       "spend": 3.15
     },
     {
       "ad_name": "Control- IMG- EP 122134528377004626- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": null,
       "crm_leads": null,
+      "hook": "Image. 'Sea Girt: we're looking for 15 people who've been thinking about tox.' Names forehead lines, frown lines, crow's feet. Same $9.50 offer, 15 spots.",
+      "link_clicks": 1,
       "messages": 0,
       "pixel_leads": 0,
+      "preview_url": "https://fb.me/22tttUN24GyFXvD",
       "spend": 28.0
     },
     {
       "ad_name": "DCT- IT- New Images- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": null,
       "crm_leads": null,
+      "hook": "Image, new set shown to an interest audience. Same two openers and the $9.50 tox offer with free consultation and skin analysis.",
+      "link_clicks": 7,
       "messages": 0,
       "pixel_leads": 0,
+      "preview_url": "https://fb.me/2TZ3kX4qveEWtXv",
       "spend": 14.49
     }
   ],
