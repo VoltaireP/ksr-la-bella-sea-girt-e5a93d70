@@ -1,27 +1,23 @@
 {
-  "actions": [
-    "Oct 2: a new video ad (10.1.26 Flexible Ad VID Winner creatives) was launched and started running the same day.",
-    "Oct 2: the older image ad (Flexible Ad IMG Winner creatives) was turned off.",
-    "Oct 6: the paused $9.50 tox ad set for returning visitors was turned back on and renamed with the relaunch date."
-  ],
+  "actions": [],
   "alarms": [],
   "campaigns": [
     {
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_lpv": 68.0,
-      "cost_per_result": 27.2,
-      "cpc": 2.67,
-      "cpm": 30.64,
-      "impressions": 4438,
+      "cost_per_lpv": 68.52,
+      "cost_per_result": 27.41,
+      "cpc": 4.15,
+      "cpm": 38.32,
+      "impressions": 3576,
       "landing_page_views": 2,
-      "link_clicks": 51,
+      "link_clicks": 33,
       "messages": 1,
       "pixel_leads": 5,
       "platform": "Meta",
-      "reach": 1911,
+      "reach": 1682,
       "result_type": "Website leads",
       "results": 5.0,
-      "spend": 136.0,
+      "spend": 137.03,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -30,24 +26,24 @@
   "currency": "USD",
   "daily": [],
   "display_name": "La Bella MD Sea Girt",
-  "generated_at": "2026-10-08T05:15:19.921790-07:00",
+  "generated_at": "2026-10-15T05:15:18.644560-07:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 144.6,
+      "prior": 136.02,
       "trend": [
-        137.13,
         143.32,
         142.42,
         137.59,
         142.54,
         138.5,
         144.6,
-        136.0
+        136.02,
+        137.03
       ],
-      "value": 136.0
+      "value": 137.03
     },
     {
       "format": "int",
@@ -55,12 +51,12 @@
       "label": "Leads (Meta)",
       "prior": 5,
       "trend": [
-        5,
         9,
         7,
         5,
         5,
         7,
+        5,
         5,
         5
       ],
@@ -70,43 +66,43 @@
       "format": "int",
       "key": "crm_leads",
       "label": "Leads in CRM",
-      "prior": 4,
+      "prior": 3,
       "trend": [
-        3,
         8,
         5,
         3,
         4,
         7,
         4,
-        3
+        3,
+        4
       ],
-      "value": 3
+      "value": 4
     },
     {
       "format": "money",
       "key": "cpl",
       "label": "Cost per CRM lead",
-      "prior": 36.15,
+      "prior": 45.34,
       "trend": [
-        45.71,
         17.91,
         28.48,
         45.86,
         35.63,
         19.79,
         36.15,
-        45.33
+        45.34,
+        34.26
       ],
-      "value": 45.33
+      "value": 34.26
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "All five ads carry one message: 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit with a free consultation and skin analysis, 'one of 15 available spots'. The video ad brought 3 of the 5 Meta leads on $72.52. The returning-visitor ad and the Sep 23 image ad brought 1 each. Worth trying a video that opens with 'No pressure. No guesswork.' from the longer ad copy, because video is earning most of the leads and every ad now opens the same way.",
-    "doing": "3 leads reached the CRM this week at $45.33 each, compared with 4 at $36.15 the week before, on $136.00 of spend. At this budget the weekly count has moved between 3 and 8 for eight weeks, so the numbers are too small to call a trend.",
-    "look_into": "Meta recorded 5 leads but only 3 reached the CRM, so 2 are worth tracing. The week before the gap was 1, so we recommend checking that every lead form entry is being passed to the CRM.",
-    "next": "We recommend leaving the offer and the current ads unchanged for one full week now that the ad set for returning visitors is back on, then comparing CRM leads and cost per lead against this week."
+    "creative": "The returning-visitor ad brought 3 of the 5 Meta leads on $86.04. It opens 'We're Looking for 15 People Who've Been Thinking About Tox', offers tox at $9.50 per unit with a free consultation and skin analysis, and promises 'No pressure. No guesswork.' The first video ad brought 2 leads on $18.87, the lowest cost per lead, on the same offer. Worth testing a short video for first-timers who 'haven't been sure where to start', since video earns the cheapest leads and all five ads open the same way.",
+    "doing": "4 leads reached the CRM this week at $34.26 each, up from 3 at $45.34 the week before, on $137.03 of spend. Meta counted 5. At this budget the weekly count has stayed between 3 and 8 for eight weeks, so one week up is not yet a trend.",
+    "look_into": "The returning-visitor ad took $86.04 of the $137.03 and brought 3 of the 5 Meta leads. The video launched Oct 2 spent $15.80 and the two image ads $9.10 and $5.10 with no leads between them, so the new video is the one to watch in its second week.",
+    "next": "We recommend keeping the budget where it is and giving the Oct 2 video one more week. If it still has no leads by then, worth turning it off and letting that spend flow to the first video ad, which is bringing leads at $9.44 each."
   },
   "labels": {
     "cpl": "Cost per CRM lead",
@@ -116,103 +112,80 @@
   "metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
-    "cost_per_message": 136.0,
-    "cpl": 45.33,
-    "crm_leads": 3,
-    "crm_leads_raw": 3,
-    "ctr": 0.011492,
+    "cost_per_message": 137.03,
+    "cpl": 34.26,
+    "crm_leads": 4,
+    "crm_leads_raw": 4,
+    "ctr": 0.009228,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 4438,
+    "impressions": 3576,
     "landing_page_views": 2,
-    "link_clicks": 51,
+    "link_clicks": 33,
     "messages": 1,
-    "meta_spend": 136.0,
+    "meta_spend": 137.03,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
     "pixel_leads": 5,
-    "reach": 1911,
-    "spend": 136.0,
+    "reach": 1682,
+    "spend": 137.03,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
   "prior_metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
-    "cost_per_message": null,
-    "cpl": 36.15,
-    "crm_leads": 4,
-    "crm_leads_raw": 4,
-    "ctr": 0.006074,
+    "cost_per_message": 136.02,
+    "cpl": 45.34,
+    "crm_leads": 3,
+    "crm_leads_raw": 3,
+    "ctr": 0.011486,
     "google_conversions": 0,
     "google_spend": 0,
-    "impressions": 5762,
+    "impressions": 4440,
     "landing_page_views": 2,
-    "link_clicks": 35,
-    "messages": 0,
-    "meta_spend": 144.6,
+    "link_clicks": 51,
+    "messages": 1,
+    "meta_spend": 136.02,
     "odoo_leads": 0,
     "odoo_order_value": 0,
     "odoo_orders": 0,
     "odoo_won": 0,
     "pixel_leads": 5,
-    "reach": 2919,
-    "spend": 144.6,
+    "reach": 1911,
+    "spend": 136.02,
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
+  "rolling": [],
   "segment_label": "segment",
   "segments": [],
   "top_ads": [
     {
-      "ad_name": "Flexible Ad 1-La Bella Sea Girt Vids- Book",
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": 18.13,
-      "crm_leads": null,
-      "hook": "Video. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 32,
-      "messages": 1,
-      "pixel_leads": 3,
-      "preview_url": "https://fb.me/2iVyqrnt2rtvhXe",
-      "spend": 72.52
-    },
-    {
       "ad_name": "DCT- RTG- Tox Ads- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": 30.26,
+      "cost_per_result": 21.51,
       "crm_leads": null,
       "hook": "For returning visitors. Opens 'We're Looking for 15 People Who've Been Thinking About Tox', same $9.50 tox and free consultation offer.",
-      "link_clicks": 12,
-      "messages": 0,
-      "pixel_leads": 1,
-      "preview_url": "https://fb.me/26BQ0eTx8ZRT8VY",
-      "spend": 30.26
+      "link_clicks": 21,
+      "messages": 1,
+      "pixel_leads": 3,
+      "preview_url": "https://fb.me/2s7GzivetX1HDCm",
+      "spend": 86.04
     },
     {
-      "ad_name": "9.23.26-Flexible Ad- IMG-Winner creatives- Book",
+      "ad_name": "Flexible Ad 1-La Bella Sea Girt Vids- Book",
       "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": 16.86,
+      "cost_per_result": 9.44,
       "crm_leads": null,
-      "hook": "Image. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 3,
+      "hook": "Video. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
+      "link_clicks": 4,
       "messages": 0,
-      "pixel_leads": 1,
-      "preview_url": "https://fb.me/1WN9JNqKIS1rsSX",
-      "spend": 16.86
-    },
-    {
-      "ad_name": "Flexible Ad- IMG-Winner creatives- Book",
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": null,
-      "crm_leads": null,
-      "hook": "Image. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 3,
-      "messages": 0,
-      "pixel_leads": 0,
-      "preview_url": "https://fb.me/1WWzsEJ51DeV5Fe",
-      "spend": 10.84
+      "pixel_leads": 2,
+      "preview_url": "https://fb.me/2dCKfCAtPCFScTI",
+      "spend": 18.87
     },
     {
       "ad_name": "10.1.26-Flexible Ad- VID-Winner creatives- Book",
@@ -220,11 +193,35 @@
       "cost_per_result": null,
       "crm_leads": null,
       "hook": "Video, launched Oct 2. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
+      "link_clicks": 4,
+      "messages": 0,
+      "pixel_leads": 0,
+      "preview_url": "https://fb.me/24sWRbRdO1VZ6D7",
+      "spend": 15.8
+    },
+    {
+      "ad_name": "9.23.26-Flexible Ad- IMG-Winner creatives- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": null,
+      "crm_leads": null,
+      "hook": "Image. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
+      "link_clicks": 3,
+      "messages": 0,
+      "pixel_leads": 0,
+      "preview_url": "https://fb.me/22pYlKMJS3VBCWx",
+      "spend": 9.1
+    },
+    {
+      "ad_name": "Flexible Ad 1- IMG-Models- Book",
+      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "cost_per_result": null,
+      "crm_leads": null,
+      "hook": "Image. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
       "link_clicks": 1,
       "messages": 0,
       "pixel_leads": 0,
-      "preview_url": "https://fb.me/1TKmPEKCCMxrUsu",
-      "spend": 5.52
+      "preview_url": "https://fb.me/22QGL5Zm4W1rN1G",
+      "spend": 5.1
     }
   ],
   "unavailable": [
@@ -245,7 +242,7 @@
         "ok": true
       },
       {
-        "detail": "meta 136.00, google 0.00, tiktok 0.00, total 136.00",
+        "detail": "meta 137.03, google 0.00, tiktok 0.00, total 137.03",
         "name": "spend",
         "ok": true
       },
@@ -255,12 +252,12 @@
         "ok": true
       },
       {
-        "detail": "raw 3, counted 3",
+        "detail": "raw 4, counted 4",
         "name": "crm_leads",
         "ok": true
       },
       {
-        "detail": "expected 45.33, got 45.33",
+        "detail": "expected 34.26, got 34.26",
         "name": "cpl",
         "ok": true
       },
@@ -290,8 +287,13 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-10-01=2, 2026-10-02=1, 2026-10-05=1; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-10-08=2, 2026-10-12=1, 2026-10-14=2; report has no daily audit rows",
         "name": "raw_rows_covered",
+        "ok": true
+      },
+      {
+        "detail": "no rolling counts",
+        "name": "rolling",
         "ok": true
       },
       {
@@ -300,7 +302,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 5.00, CRM leads 3",
+        "detail": "meta pixel leads 5.00, CRM leads 4",
         "name": "tracking_drift",
         "ok": true
       }
@@ -308,8 +310,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-10-07",
-    "label": "Oct 1 to Oct 7",
-    "start": "2026-10-01"
+    "end": "2026-10-14",
+    "label": "Oct 8 to Oct 14",
+    "start": "2026-10-08"
   }
 }
