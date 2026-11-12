@@ -1,49 +1,30 @@
 {
   "actions": [
-    "Launched a new campaign for the Nov 17 hormones and wellness event on Oct 30, with four ads testing different openings, set to run through Nov 16.",
-    "Raised the wellness event campaign budget from $20 to $26.60 a day on Nov 2.",
-    "Switched off the tox $9.50 per unit campaign on Nov 2.",
-    "Removed one wellness event ad and its ad set, and switched off a second event ad set, on Nov 2.",
-    "Put a new image on the wellness event ads and re-saved two tox image ads on Nov 2.",
-    "Added Instagram Explore and Instagram Search to the tox ad set placements on Oct 29."
+    "Launched a new Sculptra campaign on Nov 9 with three ad sets and three image ads. Meta approved two of the ads and did not approve the third.",
+    "Raised the wellness event campaign budget from $26.60 to $40 a day on Nov 9.",
+    "Added a new version of the wellness event ad with a surprise gift for early bookings, in its own ad set, on Nov 6.",
+    "Added a new ad set for the 'Your wellness questions deserve real answers' event ad on Nov 9 and updated that ad.",
+    "Switched off one event test ad set on Nov 6 and turned the pellet specialist ad set back on Nov 9.",
+    "Updated the returning-visitor audiences on Nov 9 to leave out people who already filled in the event form."
   ],
   "alarms": [],
   "campaigns": [
     {
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_lpv": 94.56,
-      "cost_per_result": 23.64,
-      "cpc": 2.31,
-      "cpm": 38.21,
-      "impressions": 2475,
-      "landing_page_views": 1,
-      "link_clicks": 41,
-      "messages": 0,
-      "pixel_leads": 4,
-      "platform": "Meta",
-      "reach": 1452,
-      "result_type": "Website leads",
-      "results": 4.0,
-      "spend": 94.56,
-      "unique_outbound_clicks": 0,
-      "uo_ctr": null
-    },
-    {
       "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
-      "cost_per_lpv": 36.45,
-      "cost_per_result": 10.41,
-      "cpc": 1.78,
-      "cpm": 29.41,
-      "impressions": 2479,
-      "landing_page_views": 2,
-      "link_clicks": 41,
+      "cost_per_lpv": 73.78,
+      "cost_per_result": 36.89,
+      "cpc": 3.21,
+      "cpm": 44.18,
+      "impressions": 5010,
+      "landing_page_views": 3,
+      "link_clicks": 69,
       "messages": 0,
-      "pixel_leads": 7,
+      "pixel_leads": 6,
       "platform": "Meta",
-      "reach": 1623,
+      "reach": 2616,
       "result_type": "Website leads",
-      "results": 7.0,
-      "spend": 72.9,
+      "results": 6.0,
+      "spend": 221.33,
       "unique_outbound_clicks": 0,
       "uo_ctr": null
     }
@@ -52,83 +33,83 @@
   "currency": "USD",
   "daily": [],
   "display_name": "La Bella MD Sea Girt",
-  "generated_at": "2026-11-05T05:15:22.884807-08:00",
+  "generated_at": "2026-11-12T05:15:39.823304-08:00",
   "headline": [
     {
       "format": "money",
       "key": "spend",
       "label": "Ad spend",
-      "prior": 134.73,
+      "prior": 167.46,
       "trend": [
-        142.54,
         138.5,
         144.6,
         136.02,
         137.03,
         146.59,
         134.73,
-        167.46
+        167.46,
+        221.33
       ],
-      "value": 167.46
+      "value": 221.33
     },
     {
       "format": "int",
       "key": "pixel_leads",
       "label": "Leads (Meta)",
-      "prior": 4,
+      "prior": 11,
       "trend": [
-        5,
         7,
         5,
         5,
         5,
         7,
         4,
-        11
+        11,
+        6
       ],
-      "value": 11
+      "value": 6
     },
     {
       "format": "int",
       "key": "crm_leads",
       "label": "Leads in CRM",
-      "prior": 2,
+      "prior": 9,
       "trend": [
-        4,
         7,
         4,
         3,
         4,
         6,
         2,
-        9
+        9,
+        5
       ],
-      "value": 9
+      "value": 5
     },
     {
       "format": "money",
       "key": "cpl",
       "label": "Cost per CRM lead",
-      "prior": 67.36,
+      "prior": 18.61,
       "trend": [
-        35.63,
         19.79,
         36.15,
         45.34,
         34.26,
         24.43,
         67.36,
-        18.61
+        18.61,
+        44.27
       ],
-      "value": 18.61
+      "value": 44.27
     }
   ],
   "insight": null,
   "insights": {
-    "creative": "The event ad that opens 'Your wellness questions deserve real answers' brought 7 of the 11 Meta leads on $63.82. It invites people to the Nov 17 hormones and wellness event with a free consult, same-day blood work and a gift card giveaway. The returning-visitor tox ad brought 3 on $57.49 with tox at $9.50 per unit and a free consultation. Worth testing a second event ad that also opens on getting real answers, since that opening brought the most leads at the lowest cost.",
-    "doing": "9 leads reached the CRM this week at $18.61 each, up from 2 at $67.36 the week before, on $167.46 of spend. Meta counted 11. Most of the CRM leads came from the new wellness event campaign.",
-    "look_into": "Meta counted 11 leads but 9 reached the CRM, so worth checking whether the other 2 came through. The tox offer campaign was switched off on Nov 2 and still spent $94.56 this week, likely before the switch.",
-    "next": "We recommend keeping the wellness event campaign running up to the Nov 17 event and checking how many of its leads book a time slot, since booked visits matter more than form fills here."
+    "creative": "The ad that opens 'Hormone pellet specialists do not usually sit in a treatment room for five hours answering questions' brought 5 of the 6 Meta leads at $16.77 each. It sells the event as one afternoon of real answers, with same-day bloodwork, a gift card raffle and a free consult for early bookings. The 'Your wellness questions deserve real answers' ad brought 1 on $67.83. Worth testing a second ad built on the specialist's time and access, since that angle beat the perks-first ads this week.",
+    "doing": "5 leads reached the CRM this week at $44.27 each, down from 9 at $18.61 the week before, on $221.33 of spend. Meta counted 6.",
+    "look_into": "Cost per CRM lead more than doubled while spend went up. The new event ad with a surprise gift for early bookings spent $43.78 with no leads, and one of the new Sculptra ads was not approved by Meta.",
+    "next": "We recommend moving more of the event budget to the ad that opens on the pellet specialist, since it brought 5 of the 6 Meta leads at $16.77 each, and checking how many event leads have booked a time slot."
   },
   "labels": {
     "cpl": "Cost per CRM lead",
@@ -138,6 +119,35 @@
   "metrics": {
     "appointments_booked": 0,
     "appointments_showed": 0,
+    "cost_per_booking": null,
+    "cost_per_message": null,
+    "cpl": 44.27,
+    "crm_leads": 5,
+    "crm_leads_raw": 5,
+    "ctr": 0.013772,
+    "google_conversions": 0,
+    "google_spend": 0,
+    "impressions": 5010,
+    "landing_page_views": 3,
+    "link_clicks": 69,
+    "messages": 0,
+    "meta_cpl": null,
+    "meta_crm_leads": null,
+    "meta_spend": 221.33,
+    "odoo_leads": 0,
+    "odoo_order_value": 0,
+    "odoo_orders": 0,
+    "odoo_won": 0,
+    "pixel_leads": 6,
+    "reach": 2616,
+    "spend": 221.33,
+    "tiktok_leads": 0,
+    "tiktok_spend": 0
+  },
+  "prior_metrics": {
+    "appointments_booked": 0,
+    "appointments_showed": 0,
+    "cost_per_booking": null,
     "cost_per_message": null,
     "cpl": 18.61,
     "crm_leads": 9,
@@ -162,96 +172,69 @@
     "tiktok_leads": 0,
     "tiktok_spend": 0
   },
-  "prior_metrics": {
-    "appointments_booked": 0,
-    "appointments_showed": 0,
-    "cost_per_message": 44.91,
-    "cpl": 67.36,
-    "crm_leads": 2,
-    "crm_leads_raw": 2,
-    "ctr": 0.012541,
-    "google_conversions": 0,
-    "google_spend": 0,
-    "impressions": 3668,
-    "landing_page_views": 1,
-    "link_clicks": 46,
-    "messages": 3,
-    "meta_cpl": null,
-    "meta_crm_leads": null,
-    "meta_spend": 134.73,
-    "odoo_leads": 0,
-    "odoo_order_value": 0,
-    "odoo_orders": 0,
-    "odoo_won": 0,
-    "pixel_leads": 4,
-    "reach": 1896,
-    "spend": 134.73,
-    "tiktok_leads": 0,
-    "tiktok_spend": 0
-  },
   "rolling": [],
   "segment_label": "segment",
   "segments": [],
   "top_ads": [
     {
+      "ad_name": "DCT- 4- KS Copy 2-Learn More",
+      "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
+      "cost_per_result": 16.77,
+      "crm_leads": null,
+      "hook": "Event ad. Opens 'Hormone pellet specialists do not usually sit in a treatment room for five hours', same-day bloodwork, raffle, free consult.",
+      "link_clicks": 30,
+      "messages": 0,
+      "pixel_leads": 5,
+      "preview_url": "https://fb.me/1WAgknFOsySlI1L",
+      "spend": 83.84
+    },
+    {
       "ad_name": "DCT-2- AR Angle R2-Book Now",
       "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
-      "cost_per_result": 9.12,
+      "cost_per_result": 67.83,
       "crm_leads": null,
-      "hook": "Event ad. Opens 'Your wellness questions deserve real answers', Nov 17 hormones and wellness event, free consult, same-day blood work, gift card giveaway.",
-      "link_clicks": 35,
-      "messages": 0,
-      "pixel_leads": 7,
-      "preview_url": "https://fb.me/2FeDf8s12aJhCLq",
-      "spend": 63.82
-    },
-    {
-      "ad_name": "DCT- RTG- Tox Ads- Book",
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": 19.16,
-      "crm_leads": null,
-      "hook": "For returning visitors. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 22,
-      "messages": 0,
-      "pixel_leads": 3,
-      "preview_url": "https://fb.me/23OCEStiGt88qGg",
-      "spend": 57.49
-    },
-    {
-      "ad_name": "Flexible Ad 1-La Bella Sea Girt Vids- Book",
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
-      "cost_per_result": 20.42,
-      "crm_leads": null,
-      "hook": "Video. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 17,
+      "hook": "Event ad. Opens 'Your wellness questions deserve real answers', free consult, same-day blood work, gift card giveaway, walk-in Tox, event-only package pricing.",
+      "link_clicks": 21,
       "messages": 0,
       "pixel_leads": 1,
-      "preview_url": "https://fb.me/26fEgbN8spq5L00",
-      "spend": 20.42
+      "preview_url": "https://fb.me/24qSQ9w9bmG86YB",
+      "spend": 67.83
     },
     {
-      "ad_name": "Flexible Ad 1- IMG-Models- Book",
-      "campaign_name": "KS/MM- DCT- LEAD-La Bella Sea Girt-$.9.50 + Free Consultation/ Facial Analysis- CBO",
+      "ad_name": "DCT-Iteration-AR Copy + Special Gift- Book Now",
+      "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
       "cost_per_result": null,
       "crm_leads": null,
-      "hook": "Image. Opens 'Smoother Skin Starts with One Appointment', tox at $9.50 per unit plus free consultation and skin analysis, 15 spots.",
-      "link_clicks": 2,
+      "hook": "Event ad. Opens 'Your wellness questions deserve real answers', surprise gift for the first people to book a free consult, same-day blood work.",
+      "link_clicks": 12,
       "messages": 0,
       "pixel_leads": 0,
-      "preview_url": "https://fb.me/2gjlSUFk8TYapoK",
-      "spend": 16.65
+      "preview_url": "https://fb.me/2j8vSABqz5v35sx",
+      "spend": 43.78
     },
     {
       "ad_name": "DCT- 3-KS Copy 1-Book Now",
       "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
       "cost_per_result": null,
       "crm_leads": null,
-      "hook": "Event ad. Opens with three quotes like 'It's just stress', then the Nov 17 Hormone and Wellness Holiday Soiree with same-day labs and a gift card raffle.",
-      "link_clicks": 5,
+      "hook": "Event ad. Opens with 'It's just stress' and 'It's just getting older', then the Hormone and Wellness Holiday Soiree with same-day bloodwork and a raffle.",
+      "link_clicks": 2,
       "messages": 0,
       "pixel_leads": 0,
-      "preview_url": "https://fb.me/2m2SjLavGNehC6P",
-      "spend": 6.11
+      "preview_url": "https://fb.me/2bdKbvsFnXVmUHh",
+      "spend": 14.14
+    },
+    {
+      "ad_name": "DCT-2- AR Angle R2-Book Now",
+      "campaign_name": "KS/MM- DCT- Wellness Event- La Bella Sea Girt- Lead- CBO",
+      "cost_per_result": null,
+      "crm_leads": null,
+      "hook": "Event ad. Opens 'Your wellness questions deserve real answers', free consult, same-day blood work, gift card giveaway, walk-in Tox, event-only package pricing.",
+      "link_clicks": 4,
+      "messages": 0,
+      "pixel_leads": 0,
+      "preview_url": "https://fb.me/24qrML6QEj3Z7nO",
+      "spend": 11.71
     }
   ],
   "unavailable": [
@@ -272,7 +255,7 @@
         "ok": true
       },
       {
-        "detail": "meta 167.46, google 0.00, tiktok 0.00, total 167.46",
+        "detail": "meta 221.33, google 0.00, tiktok 0.00, total 221.33",
         "name": "spend",
         "ok": true
       },
@@ -282,12 +265,12 @@
         "ok": true
       },
       {
-        "detail": "raw 9, counted 9",
+        "detail": "raw 5, counted 5",
         "name": "crm_leads",
         "ok": true
       },
       {
-        "detail": "expected 18.61, got 18.61",
+        "detail": "expected 44.27, got 44.27",
         "name": "cpl",
         "ok": true
       },
@@ -317,7 +300,7 @@
         "ok": true
       },
       {
-        "detail": "raw rows by date: 2026-10-29=2, 2026-10-30=1, 2026-10-31=1, 2026-11-01=2, 2026-11-02=1, 2026-11-03=4, 2026-11-04=1; report has no daily audit rows",
+        "detail": "raw rows by date: 2026-11-05=1, 2026-11-09=1, 2026-11-10=1, 2026-11-11=3; report has no daily audit rows",
         "name": "raw_rows_covered",
         "ok": true
       },
@@ -332,7 +315,7 @@
         "ok": true
       },
       {
-        "detail": "meta pixel leads 11.00, CRM leads 9",
+        "detail": "meta pixel leads 6.00, CRM leads 5",
         "name": "tracking_drift",
         "ok": true
       }
@@ -340,8 +323,8 @@
     "status": "pass"
   },
   "window": {
-    "end": "2026-11-04",
-    "label": "Oct 29 to Nov 4",
-    "start": "2026-10-29"
+    "end": "2026-11-11",
+    "label": "Nov 5 to Nov 11",
+    "start": "2026-11-05"
   }
 }
